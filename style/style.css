@@ -1,0 +1,23 @@
+.bg-black
+{
+	background:black!important;
+}
+
+body
+{
+	background:#aaa;
+}
+
+.left-border
+{
+	border-left:0.5rem solid green;
+	border-radius:0.2rem;
+	padding-left:0.5rem;
+}
+
+.menu
+{
+	position:fixed;
+	bottom:1rem;
+	right:1rem;
+}
